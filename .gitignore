@@ -1,10 +1,14 @@
 # Comment *
 tempfile.txt
+redme_gitignor.txt
+
 .DS_Store
 *.zip
 *.gz
+
 log/*.log
 log/*.log.[0-9]
+
 assets/photoshop/
 assets/video/
 !assets/video/tour_*.mp4

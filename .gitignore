@@ -5,4 +5,6 @@ tempfile.txt
 *.gz
 log/*.log
 log/*.log.[0-9]
-
+assets/photoshop/
+assets/video/
+!assets/video/tour_*.mp4

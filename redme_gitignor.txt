@@ -1,0 +1,9 @@
+project/.gitignore
+very basic regular expressions
+	* ? [AEIOU] [0-9]
+negate expressions with !
+	*.php 
+	!index.php
+ignore all files in a directory with trailing slash
+	assets/videos/
+
